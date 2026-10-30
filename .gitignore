@@ -1,0 +1,18 @@
+# ProjectGlue Bundles & Artifacts
+*_part*.txt
+*_bundle*.txt
+*.tmp
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Local custom ignores or tests
+.bundleignore

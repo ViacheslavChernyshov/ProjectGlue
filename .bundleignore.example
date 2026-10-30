@@ -1,0 +1,18 @@
+# ==============================================================================
+# .bundleignore - Example Custom Exclusion Rules for ProjectGlue
+# Rename this file to '.bundleignore' in your project root to activate.
+# ==============================================================================
+
+# Custom directories
+# mock_data/
+# fixtures/
+# legacy/
+
+# Specific large files
+# schema_dump.sql
+# seeds.json
+
+# Specific file patterns
+# *.log
+# *.tmp
+# test_*.json
